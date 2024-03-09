@@ -33,7 +33,7 @@ def score(s):
     return str(scores)
 
 def toxic_score(comments):
-    API_KEY = 'AIzaSyBdVLZnvcOYKIKfbnrQ99lathFLRIN3Fns'
+    # API_KEY = None
     client = discovery.build(
       "commentanalyzer",
       "v1alpha1",
