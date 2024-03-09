@@ -4,7 +4,7 @@
 
 The Warning Behavior Analysis Toolkit (WBAT) is a computational framework developed to measure the warning behaviors indicative of radicalization in online discourse. Specifically, we use the toolkit within the context of radical misogynist ideologies. WBAT leverages linguistic and behavioral analytics to identify shifts towards extremist ideologies. This toolkit primarily focuses on Reddit as a case study, analyzing interactions within Manosphere communities and their impact on users' adoption of radical views.
 
-# Table 1: A summary of the warning behaviors, our methods for measuring them, and previous work which motivates their inclusion in our toolkit.
+### Table 1: A summary of the warning behaviors, our methods for measuring them, and previous work which motivates their inclusion in our toolkit.
 
 | Type               | Trait     | Definition                                 | Measure                                      | References                  |
 | ------------------ | --------- | ------------------------------------------ | -------------------------------------------- | --------------------------- |
