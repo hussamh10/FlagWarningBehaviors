@@ -35,7 +35,7 @@ Based on your request to include only the references mentioned in the Table 1 fr
 
 ### References for Table 1
 
-[6] Stephane J. Baele. 2017. "Lone-actor terrorists’ emotions and cognition: An evaluation beyond stereotypes." *Political Psychology*, 38(3), pp. 449–468.
+[6] Stephane J. Baele. 2017. "Lone-actor terrorists’ emotions and cognition: An evaluation beyond stereotypes." *Political Psychology*, 38(3), pp. 449–468.  
 [9] JM Berger. 2017. "Extremist Construction of Identity: How Escalating Demands for Legitimacy Shape and Define In-Group and Out-Group Dynamics," ICCT Research Paper, April 2017.
 [15] Cindy K. Chung and James W. Pennebaker. 2011. "Using computerized text analysis to assess threatening communications and behavior." In *Threatening communications and behavior: Perspectives on the pursuit of public figures*, pp. 3–32.
 [17] Katie Cohen, Fredrik Johansson, Lisa Kaati, and Jonas Clausen Mork. 2014. "Detecting linguistic markers for radical violence in social media." *Terrorism and Political Violence*, 26(1), pp. 246–256.
