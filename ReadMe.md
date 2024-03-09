@@ -27,11 +27,9 @@ The toolkit is structured around several Python scripts, each dedicated to a spe
 5. **Negativity Tracking (`negative.py`)**: Monitors negative sentiment and outlook in user communications.
 ## Reference
 
-For more detailed theoretical underpinnings and empirical validation of the methodologies implemented in WBAT, please refer to the paper 
-"Making a Radical Misogynist: How Online Social Engagement with the Manosphere Influences Traits of Radicalization" by Hussam Habib, Padmini Srinivasan, and Rishab Nithyanand.
-### References for Table
-
-Based on your request to include only the references mentioned in the Table 1 from the PDF document, with the original reference numbers, here's the list:
+For more details please refer to the paper 
+**"Making a Radical Misogynist: How Online Social Engagement with the Manosphere Influences Traits of Radicalization"**
+Hussam Habib, Padmini Srinivasan, and Rishab Nithyanand.
 
 ### References for Table 1
 
